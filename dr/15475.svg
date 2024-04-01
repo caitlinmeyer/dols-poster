@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" onmouseup="{ if(window.parent.document.onmouseup) window.parent.document.onmouseup(arguments[0]);}" width="36" viewBox="0 0 36 36" id="S_LockOpen_18_N_2x" height="36" data-name="S_LockOpen_18_N@2x"><defs><style>
+      .fill {
+        fill: #6e6e6e;
+      }
+
+      
+    </style></defs><path data-cppathid="10000" d="M29,16H11.9V10.353A6.213,6.213,0,0,1,18,4a6.143,6.143,0,0,1,5.508,3.419c.31.639.266,1.146.777,1.146a.508.508,0,0,0,.186-.036L27.152,7.46a.513.513,0,0,0,.322-.471A9.92,9.92,0,0,0,18,.1C11.5.1,8,6.067,8,10.292V16H7a1,1,0,0,0-1,1V33a1,1,0,0,0,1,1H29a1,1,0,0,0,1-1V17A1,1,0,0,0,29,16ZM20,26.222V29a1,1,0,0,1-1,1H17a1,1,0,0,1-1-1V26.222a3,3,0,1,1,4,0Z" class="fill"/></svg>
